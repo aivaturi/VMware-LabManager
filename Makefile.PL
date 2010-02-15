@@ -6,6 +6,7 @@ author   q{"Aditya Ivaturi" <"ivaturi@gmail.com">};
 license  'perl';
 
 build_requires 'Test::More';
+build_requires 'SOAP::Lite';
 
 auto_install;
 
